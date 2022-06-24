@@ -27,8 +27,8 @@ the data.
 ```
 /*
 Program to implement the multivariate linear regression model for sales prediction.
-Developed by:Aavula Tharun 
-RegisterNumber: 212221240003 
+Developed by:Narmatha K 
+RegisterNumber: 212219040088
 */
 
 
